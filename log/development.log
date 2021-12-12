@@ -1,0 +1,1216 @@
+Started GET "/" for ::1 at 2021-12-10 16:51:56 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.9ms | Allocations: 530)
+Completed 200 OK in 23ms (Views: 13.9ms | ActiveRecord: 0.0ms | Allocations: 4445)
+
+
+Started GET "/favicon.ico" for ::1 at 2021-12-10 16:51:56 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+Started GET "/" for ::1 at 2021-12-10 16:52:03 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 10.5ms | Allocations: 209)
+Completed 200 OK in 17ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 975)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:04 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.4ms | Allocations: 8)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 328)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:04 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 7)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 296)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:04 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 7)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms | Allocations: 295)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:09 +0200
+Started GET "/" for ::1 at 2021-12-10 16:52:09 +0200
+Processing by Rails::WelcomeController#index as HTML
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.2ms | Allocations: 445)
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 6.0ms | Allocations: 289)
+Completed 200 OK in 12ms (Views: 7.3ms | ActiveRecord: 0.0ms | Allocations: 2509)
+
+
+Completed 200 OK in 14ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 3687)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:09 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 7.0ms | Allocations: 208)
+Completed 200 OK in 10ms (Views: 8.3ms | ActiveRecord: 0.0ms | Allocations: 1000)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:09 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 7)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms | Allocations: 319)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:10 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 8)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms | Allocations: 303)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:11 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.2ms | Allocations: 8)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 301)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:11 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 7)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 295)
+
+
+Started GET "/" for ::1 at 2021-12-10 16:52:11 +0200
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/khaleddabbas/.rvm/gems/ruby-3.0.2/gems/railties-6.1.4.1/lib/rails/templates/rails/welcome/index.html.erb (Duration: 0.3ms | Allocations: 7)
+Completed 200 OK in 1ms (Views: 0.6ms | ActiveRecord: 0.0ms | Allocations: 295)
+
+
+  [1m[35m (35.8ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (6.5ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (5.8ms)[0m  [1m[34mSELECT pg_try_advisory_lock(8039392388304689580)[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUser (20211210172243)
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(8039392388304689580)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(8039392388304689580)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUser (20211210172243)
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (9.2ms)[0m  [1m[35mCREATE TABLE "users" ("id" bigserial primary key, "username" character varying, "email" character varying, "password_digest" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.6ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210172243"]]
+  [1m[36mTRANSACTION (2.0ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateParticipants (20211210180556)
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (12.0ms)[0m  [1m[35mCREATE TABLE "participants" ("id" bigserial primary key, "name" character varying, "dob" date, "ab_test_group_id" bigint NOT NULL, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL, CONSTRAINT "fk_rails_24da5661c8"
+FOREIGN KEY ("ab_test_group_id")
+  REFERENCES "ab_test_groups" ("id")
+)[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[31mROLLBACK[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(8039392388304689580)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(8039392388304689580)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateAbTestGroups (20211210180334)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.3ms)[0m  [1m[35mCREATE TABLE "ab_test_groups" ("id" bigserial primary key, "group_name" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180334"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateParticipants (20211210180556)
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (13.3ms)[0m  [1m[35mCREATE TABLE "participants" ("id" bigserial primary key, "name" character varying, "dob" date, "ab_test_group_id" bigint NOT NULL, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL, CONSTRAINT "fk_rails_24da5661c8"
+FOREIGN KEY ("ab_test_group_id")
+  REFERENCES "ab_test_groups" ("id")
+)[0m
+  [1m[35m (1.3ms)[0m  [1m[35mCREATE INDEX "index_participants_on_ab_test_group_id" ON "participants" ("ab_test_group_id")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180556"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::InternalMetadata Create (7.2ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2021-12-10 18:41:16.755034"], ["updated_at", "2021-12-10 18:41:16.755034"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(8039392388304689580)[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 20:42:17 +0200
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by AbTestGroupsController#index as HTML
+Completed 500 Internal Server Error in 19ms (ActiveRecord: 0.0ms | Allocations: 6378)
+
+
+  
+NameError (undefined local variable or method `participants' for #<AbTestGroupsController:0x00000000006388>
+Did you mean?  participants_url):
+  
+app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAbTestGroup Create (0.6ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "MY NEW GROUP"], ["created_at", "2021-12-10 18:43:04.063309"], ["updated_at", "2021-12-10 18:43:04.063309"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAbTestGroup Create (0.5ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "MY NEW GROUP"], ["created_at", "2021-12-10 18:43:15.920303"], ["updated_at", "2021-12-10 18:43:15.920303"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAbTestGroup Create (0.4ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "MY NEW GROUP"], ["created_at", "2021-12-10 18:45:01.867341"], ["updated_at", "2021-12-10 18:45:01.867341"]]
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (3.2ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Khaled"], ["ab_test_group_id", 3], ["created_at", "2021-12-10 18:45:01.887106"], ["updated_at", "2021-12-10 18:45:01.887106"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.4ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Rob"], ["ab_test_group_id", 3], ["created_at", "2021-12-10 18:45:01.911709"], ["updated_at", "2021-12-10 18:45:01.911709"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.3ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Hanan"], ["ab_test_group_id", 3], ["created_at", "2021-12-10 18:45:01.948555"], ["updated_at", "2021-12-10 18:45:01.948555"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 20:47:47 +0200
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by AbTestGroupsController#index as HTML
+Completed 500 Internal Server Error in 14ms (ActiveRecord: 0.0ms | Allocations: 6112)
+
+
+  
+NameError (undefined local variable or method `participants' for #<AbTestGroupsController:0x00000000006388>
+Did you mean?  participants_url):
+  
+app/controllers/ab_test_groups_controller.rb:5:in `index'
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 20:48:01 +0200
+Processing by AbTestGroupsController#index as HTML
+Completed 200 OK in 3ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1483)
+
+
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 20:48:03 +0200
+Processing by AbTestGroupsController#index as HTML
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 134)
+
+
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 20:48:05 +0200
+Processing by AbTestGroupsController#index as HTML
+Completed 200 OK in 0ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 118)
+
+
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 20:48:08 +0200
+Processing by AbTestGroupsController#index as HTML
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms | Allocations: 3206)
+
+
+  
+NameError (undefined local variable or method `participants' for #<AbTestGroupsController:0x00000000008818>
+Did you mean?  participants_url):
+  
+app/controllers/ab_test_groups_controller.rb:5:in `index'
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 20:48:46 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.5ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 44ms (Views: 33.2ms | ActiveRecord: 8.2ms | Allocations: 16005)
+
+
+Started GET "//participants" for ::1 at 2021-12-10 22:10:27 +0200
+  [1m[35m (1.1ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#index as HTML
+  [1m[36mParticipant Load (0.6ms)[0m  [1m[34mSELECT "participants".* FROM "participants"[0m
+  ↳ app/controllers/participants_controller.rb:5:in `index'
+Completed 200 OK in 22ms (Views: 7.7ms | ActiveRecord: 4.4ms | Allocations: 8284)
+
+
+Started GET "/participants" for ::1 at 2021-12-10 22:10:30 +0200
+Processing by ParticipantsController#index as HTML
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants"[0m
+  ↳ app/controllers/participants_controller.rb:5:in `index'
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.3ms | Allocations: 920)
+
+
+Started POST "/participants" for ::1 at 2021-12-10 22:12:32 +0200
+Processing by ParticipantsController#create as */*
+Completed 200 OK in 92ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 2771)
+
+
+Started POST "/participants" for ::1 at 2021-12-10 22:12:53 +0200
+Processing by ParticipantsController#create as */*
+  Parameters: {"name"=>"dabbas", "ab_test_group_id"=>"1", "participant"=>{"name"=>"dabbas", "ab_test_group_id"=>"1"}}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mAbTestGroup Load (0.7ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mParticipant Create (2.5ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "dabbas"], ["ab_test_group_id", 1], ["created_at", "2021-12-10 20:12:53.375077"], ["updated_at", "2021-12-10 20:12:53.375077"]]
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mTRANSACTION (5.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+Completed 200 OK in 60ms (Views: 0.3ms | ActiveRecord: 14.3ms | Allocations: 6779)
+
+
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 22:13:03 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.4ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.8ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 15ms (Views: 12.4ms | ActiveRecord: 1.9ms | Allocations: 5044)
+
+
+Started POST "/participants/4" for ::1 at 2021-12-10 22:14:00 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/participants/4"):
+  
+Started PUT "/participants/4" for ::1 at 2021-12-10 22:14:30 +0200
+Processing by ParticipantsController#update as */*
+  Parameters: {"name"=>"wablabubd", "ab_test_group_id"=>"2", "id"=>"4", "participant"=>{"name"=>"wablabubd", "ab_test_group_id"=>"2"}}
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:20:in `update'
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:20:in `update'
+  [1m[36mParticipant Update (0.9ms)[0m  [1m[33mUPDATE "participants" SET "name" = $1, "ab_test_group_id" = $2, "updated_at" = $3 WHERE "participants"."id" = $4[0m  [["name", "wablabubd"], ["ab_test_group_id", 2], ["updated_at", "2021-12-10 20:14:30.760174"], ["id", 4]]
+  ↳ app/controllers/participants_controller.rb:20:in `update'
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:20:in `update'
+Completed 200 OK in 47ms (Views: 0.3ms | ActiveRecord: 2.3ms | Allocations: 3485)
+
+
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 22:14:33 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.2ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 8ms (Views: 6.2ms | ActiveRecord: 1.2ms | Allocations: 3346)
+
+
+Started GET "/ab_test_groups" for ::1 at 2021-12-10 22:20:07 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/ab_test_groups"):
+  
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-10 22:20:13 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.2ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 26ms (Views: 17.3ms | ActiveRecord: 6.4ms | Allocations: 10504)
+
+
+Started PUT "/api/participants/4" for ::1 at 2021-12-10 22:20:22 +0200
+Processing by ParticipantsController#update as */*
+  Parameters: {"name"=>"wablabubd", "ab_test_group_id"=>"2", "id"=>"4", "participant"=>{"name"=>"wablabubd", "ab_test_group_id"=>"2"}}
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:20:in `update'
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:20:in `update'
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:20:in `update'
+Completed 200 OK in 46ms (Views: 0.7ms | ActiveRecord: 1.1ms | Allocations: 3352)
+
+
+Started POST "/api/participants/" for ::1 at 2021-12-11 16:24:00 +0200
+Processing by ParticipantsController#create as */*
+  Parameters: {"name"=>"sdsdsd", "ab_test_group_id"=>"2", "participant"=>{"name"=>"sdsdsd", "ab_test_group_id"=>"2"}}
+  [1m[36mTRANSACTION (4.5ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mAbTestGroup Load (2.7ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mParticipant Create (10.3ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "sdsdsd"], ["ab_test_group_id", 2], ["created_at", "2021-12-11 14:24:01.251972"], ["updated_at", "2021-12-11 14:24:01.251972"]]
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mTRANSACTION (1.6ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+Completed 200 OK in 119ms (Views: 0.4ms | ActiveRecord: 56.2ms | Allocations: 8571)
+
+
+Started POST "/api/participants/" for ::1 at 2021-12-11 16:24:19 +0200
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#create as */*
+  Parameters: {"name"=>"wabababababa", "ab_test_group_id"=>"2", "participant"=>{"name"=>"wabababababa", "ab_test_group_id"=>"2"}}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mAbTestGroup Load (0.5ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mParticipant Create (0.8ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "wabababababa"], ["ab_test_group_id", 2], ["created_at", "2021-12-11 14:24:19.805799"], ["updated_at", "2021-12-11 14:24:19.805799"]]
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:9:in `create'
+Completed 200 OK in 47ms (Views: 0.3ms | ActiveRecord: 18.9ms | Allocations: 15192)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 16:24:22 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (2.7ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 15ms (Views: 11.4ms | ActiveRecord: 3.5ms | Allocations: 5327)
+
+
+Started PUT "/api/participants/6" for ::1 at 2021-12-11 16:32:31 +0200
+Processing by ParticipantsController#update as */*
+  Parameters: {"name"=>"khaed", "ab_test_group_id"=>"2", "id"=>"6", "participant"=>{"name"=>"khaed", "ab_test_group_id"=>"2"}}
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:18:in `update'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+  [1m[36mParticipant Update (7.3ms)[0m  [1m[33mUPDATE "participants" SET "name" = $1, "updated_at" = $2 WHERE "participants"."id" = $3[0m  [["name", "khaed"], ["updated_at", "2021-12-11 14:32:31.264243"], ["id", 6]]
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+  [1m[36mTRANSACTION (1.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+Completed 200 OK in 25ms (Views: 0.3ms | ActiveRecord: 15.7ms | Allocations: 9352)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 16:32:33 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.2ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 7ms (Views: 6.1ms | ActiveRecord: 0.9ms | Allocations: 4223)
+
+
+Started DELETE "/api/participants/6" for ::1 at 2021-12-11 16:32:43 +0200
+  
+ActionController::RoutingError (No route matches [DELETE] "/api/participants/6"):
+  
+Started DELETE "/api/participants/6" for ::1 at 2021-12-11 16:32:50 +0200
+  
+ActionController::RoutingError (No route matches [DELETE] "/api/participants/6"):
+  
+Started PATCH "/api/participants/6" for ::1 at 2021-12-11 16:33:56 +0200
+Processing by ParticipantsController#update as */*
+  Parameters: {"name"=>"khaed", "ab_test_group_id"=>"2", "id"=>"6", "participant"=>{"name"=>"khaed", "ab_test_group_id"=>"2"}}
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:18:in `update'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:19:in `update'
+Completed 200 OK in 8ms (Views: 0.3ms | ActiveRecord: 1.1ms | Allocations: 2588)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 16:33:58 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.5ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 1.5ms | Allocations: 3553)
+
+
+Started DELETE "/api/participants/6" for ::1 at 2021-12-11 16:36:53 +0200
+  
+ActionController::RoutingError (No route matches [DELETE] "/api/participants/6"):
+  
+Started DELETE "/api/participants/6" for ::1 at 2021-12-11 16:37:02 +0200
+  
+ActionController::RoutingError (No route matches [DELETE] "/api/participants/6"):
+  
+Started DELETE "/api/participants/6" for ::1 at 2021-12-11 16:37:31 +0200
+Processing by ParticipantsController#destroy as */*
+  Parameters: {"name"=>"khaed", "ab_test_group_id"=>"2", "id"=>"6", "participant"=>{"name"=>"khaed", "ab_test_group_id"=>"2"}}
+  [1m[36mParticipant Load (0.9ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:28:in `destroy'
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:29:in `destroy'
+  [1m[36mParticipant Destroy (0.4ms)[0m  [1m[31mDELETE FROM "participants" WHERE "participants"."id" = $1[0m  [["id", 6]]
+  ↳ app/controllers/participants_controller.rb:29:in `destroy'
+  [1m[36mTRANSACTION (0.9ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:29:in `destroy'
+Completed 500 Internal Server Error in 17ms (ActiveRecord: 8.3ms | Allocations: 6442)
+
+
+  
+NoMethodError (undefined method `redner' for #<ParticipantsController:0x00000000009740>
+Did you mean?  render):
+  
+app/controllers/participants_controller.rb:31:in `destroy'
+Started DELETE "/api/participants/6" for ::1 at 2021-12-11 16:37:41 +0200
+  
+ActionController::RoutingError (No route matches [DELETE] "/api/participants/6"):
+  
+Started DELETE "/api/participant/6" for ::1 at 2021-12-11 16:37:49 +0200
+  
+ActionController::RoutingError (uninitialized constant ParticipantController
+Did you mean?  ParticipantsController):
+  
+Started DELETE "/api/participant/6" for ::1 at 2021-12-11 16:37:51 +0200
+  
+ActionController::RoutingError (uninitialized constant ParticipantController
+Did you mean?  ParticipantsController):
+  
+Started DELETE "/api/participants/6" for ::1 at 2021-12-11 16:38:00 +0200
+Processing by ParticipantsController#destroy as */*
+  Parameters: {"name"=>"khaed", "ab_test_group_id"=>"2", "id"=>"6", "participant"=>{"name"=>"khaed", "ab_test_group_id"=>"2"}}
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:28:in `destroy'
+Completed 404 Not Found in 4ms (ActiveRecord: 3.4ms | Allocations: 962)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Participant with 'id'=6):
+  
+app/controllers/participants_controller.rb:28:in `destroy'
+Started DELETE "/api/participants/2" for ::1 at 2021-12-11 16:38:13 +0200
+Processing by ParticipantsController#destroy as */*
+  Parameters: {"id"=>"2"}
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:28:in `destroy'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:29:in `destroy'
+  [1m[36mParticipant Destroy (0.5ms)[0m  [1m[31mDELETE FROM "participants" WHERE "participants"."id" = $1[0m  [["id", 2]]
+  ↳ app/controllers/participants_controller.rb:29:in `destroy'
+  [1m[36mTRANSACTION (7.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:29:in `destroy'
+Completed 500 Internal Server Error in 59ms (ActiveRecord: 8.4ms | Allocations: 5929)
+
+
+  
+NoMethodError (undefined method `redner' for #<ParticipantsController:0x0000000000b6a8>
+Did you mean?  render):
+  
+app/controllers/participants_controller.rb:31:in `destroy'
+Started POST "/api/ab_test_groups/2" for ::1 at 2021-12-11 16:44:22 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/api/ab_test_groups/2"):
+  
+Error occurred while parsing request parameters.
+Contents:
+
+{
+    "group_name": "khaed",
+}
+Started POST "/api/ab_test_groups/2" for ::1 at 2021-12-11 16:44:25 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/api/ab_test_groups/2"):
+  
+Started POST "/api/ab_test_groups/" for ::1 at 2021-12-11 16:44:35 +0200
+Processing by AbTestGroupsController#create as */*
+  Parameters: {"group_name"=>"khaed", "ab_test_group"=>{"group_name"=>"khaed"}}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+  [1m[36mAbTestGroup Create (1.4ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "khaed"], ["created_at", "2021-12-11 14:44:35.194960"], ["updated_at", "2021-12-11 14:44:35.194960"]]
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+Completed 200 OK in 10ms (Views: 0.5ms | ActiveRecord: 25.9ms | Allocations: 3998)
+
+
+Started PUT "/api/ab_test_groups/2" for ::1 at 2021-12-11 16:44:51 +0200
+Processing by AbTestGroupsController#update as */*
+  Parameters: {"group_name"=>"dabbashaed", "id"=>"2", "ab_test_group"=>{"group_name"=>"dabbashaed"}}
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 2], ["LIMIT", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:19:in `update'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:21:in `update'
+  [1m[36mAbTestGroup Update (0.4ms)[0m  [1m[33mUPDATE "ab_test_groups" SET "group_name" = $1, "updated_at" = $2 WHERE "ab_test_groups"."id" = $3[0m  [["group_name", "dabbashaed"], ["updated_at", "2021-12-11 14:44:51.257400"], ["id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:21:in `update'
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:21:in `update'
+Completed 200 OK in 44ms (Views: 0.3ms | ActiveRecord: 1.7ms | Allocations: 2645)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 16:44:53 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.2ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 4]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 18ms (Views: 16.9ms | ActiveRecord: 1.3ms | Allocations: 8944)
+
+
+Started DELETE "/api/ab_test_groups/4" for ::1 at 2021-12-11 16:46:21 +0200
+Processing by AbTestGroupsController#destroy as */*
+  Parameters: {"group_name"=>"dabbashaed", "id"=>"4", "ab_test_group"=>{"group_name"=>"dabbashaed"}}
+  [1m[36mAbTestGroup Load (0.6ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:29:in `destroy'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:31:in `destroy'
+  [1m[36mAbTestGroup Destroy (0.5ms)[0m  [1m[31mDELETE FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1[0m  [["id", 4]]
+  ↳ app/controllers/ab_test_groups_controller.rb:31:in `destroy'
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:31:in `destroy'
+Completed 200 OK in 12ms (Views: 0.2ms | ActiveRecord: 5.6ms | Allocations: 3861)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 16:46:23 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.2ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:5:in `index'
+Completed 200 OK in 17ms (Views: 13.3ms | ActiveRecord: 3.4ms | Allocations: 7298)
+
+
+Started POST "/api/ab_test_groups/" for ::1 at 2021-12-11 16:47:32 +0200
+Processing by AbTestGroupsController#create as */*
+  Parameters: {"group_name"=>"dabbashaed", "ab_test_group"=>{"group_name"=>"dabbashaed"}}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+  [1m[36mAbTestGroup Create (0.5ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "dabbashaed"], ["created_at", "2021-12-11 14:47:33.060736"], ["updated_at", "2021-12-11 14:47:33.060736"]]
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+Completed 500 Internal Server Error in 13ms (ActiveRecord: 4.7ms | Allocations: 5775)
+
+
+  
+NameError (undefined local variable or method `ab_test_group' for #<AbTestGroupsController:0x0000000000e830>
+Did you mean?  @ab_test_group
+               ab_test_group_url):
+  
+app/controllers/ab_test_groups_controller.rb:12:in `create'
+Started POST "/api/ab_test_groups/" for ::1 at 2021-12-11 16:47:41 +0200
+Processing by AbTestGroupsController#create as */*
+  Parameters: {"group_name"=>"dabbashaed", "ab_test_group"=>{"group_name"=>"dabbashaed"}}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+  [1m[36mAbTestGroup Create (0.3ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "dabbashaed"], ["created_at", "2021-12-11 14:47:41.825541"], ["updated_at", "2021-12-11 14:47:41.825541"]]
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:9:in `create'
+Completed 200 OK in 9ms (Views: 0.1ms | ActiveRecord: 4.0ms | Allocations: 3895)
+
+
+Started POST "/api/participants/add_by_group_name" for ::1 at 2021-12-11 17:08:18 +0200
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Completed 500 Internal Server Error in 15ms (ActiveRecord: 26.2ms | Allocations: 4333)
+
+
+  
+NoMethodError (undefined method `group_name' for #<ActionController::Parameters {"name"=>"because"} permitted: true>):
+  
+app/controllers/participants_controller.rb:38:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name" for ::1 at 2021-12-11 17:08:49 +0200
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Completed 500 Internal Server Error in 22ms (ActiveRecord: 3.9ms | Allocations: 5639)
+
+
+  
+NoMethodError (undefined method `where' for #<Participant id: nil, name: "because", dob: nil, ab_test_group_id: nil, created_at: nil, updated_at: nil>):
+  
+app/controllers/participants_controller.rb:38:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:10:56 +0200
+  
+ActionController::RoutingError (No route matches [POST] "/api/participants/add_by_group_name/dabbashaed"):
+  
+Error occurred while parsing request parameters.
+Contents:
+
+{
+    "name": "because",
+}
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:11:30 +0200
+Error occurred while parsing request parameters.
+Contents:
+
+{
+    "name": "because",
+}
+Processing by ParticipantsController#add_by_group_name as */*
+Completed 400 Bad Request in 1ms (ActiveRecord: 0.0ms | Allocations: 188)
+
+
+  
+ActionDispatch::Http::Parameters::ParseError (809: unexpected token at '{
+    "name": "because",
+}'):
+  
+app/controllers/participants_controller.rb:38:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:11:59 +0200
+  [1m[35m (1.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Error occurred while parsing request parameters.
+Contents:
+
+{
+    "name": "because",
+}
+Processing by ParticipantsController#add_by_group_name as */*
+Completed 400 Bad Request in 8ms (ActiveRecord: 0.0ms | Allocations: 3132)
+
+
+  
+ActionDispatch::Http::Parameters::ParseError (809: unexpected token at '{
+    "name": "because",
+}'):
+  
+app/controllers/participants_controller.rb:38:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:12:07 +0200
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Completed 500 Internal Server Error in 28ms (ActiveRecord: 6.4ms | Allocations: 7351)
+
+
+  
+NoMethodError (undefined method `where' for #<Participant id: nil, name: "because", dob: nil, ab_test_group_id: nil, created_at: nil, updated_at: nil>):
+  
+app/controllers/participants_controller.rb:39:in `add_by_group_name'
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 17:19:27 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.5ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.5ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 5]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 6]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 71ms (Views: 68.4ms | ActiveRecord: 19.4ms | Allocations: 17428)
+
+
+Started DELETE "/api/ab_test_groups/6" for ::1 at 2021-12-11 17:20:16 +0200
+Processing by AbTestGroupsController#destroy as */*
+  Parameters: {"name"=>"because", "id"=>"6", "ab_test_group"=>{}}
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:40:in `set_ab_test_group'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:28:in `destroy'
+  [1m[36mAbTestGroup Destroy (0.7ms)[0m  [1m[31mDELETE FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1[0m  [["id", 6]]
+  ↳ app/controllers/ab_test_groups_controller.rb:28:in `destroy'
+  [1m[36mTRANSACTION (5.5ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:28:in `destroy'
+Completed 200 OK in 48ms (Views: 0.3ms | ActiveRecord: 6.7ms | Allocations: 2269)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 17:20:24 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.1ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 3]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 5]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 19ms (Views: 17.3ms | ActiveRecord: 1.2ms | Allocations: 4181)
+
+
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:30:00 +0200
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Completed 500 Internal Server Error in 1ms (ActiveRecord: 7.6ms | Allocations: 659)
+
+
+  
+NoMethodError (undefined method `pry' for #<Binding:0x00007fe5afc5bdd0>
+Did you mean?  try):
+  
+app/controllers/participants_controller.rb:38:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:30:26 +0200
+  
+LoadError (cannot load such file -- pry
+Did you mean?  pty):
+  
+app/controllers/participants_controller.rb:1:in `<main>'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:32:03 +0200
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+LoadError (cannot load such file -- pry
+Did you mean?  pty):
+  
+app/controllers/participants_controller.rb:1:in `<main>'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:33:58 +0200
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Completed 500 Internal Server Error in 613923ms (ActiveRecord: 5.4ms | Allocations: 64103)
+
+
+  
+NoMethodError (undefined method `where' for #<Participant id: nil, name: "because", dob: nil, ab_test_group_id: nil, created_at: nil, updated_at: nil>):
+  
+app/controllers/participants_controller.rb:41:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:44:27 +0200
+  [1m[35m (1.8ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Completed 500 Internal Server Error in 566403ms (ActiveRecord: 5.8ms | Allocations: 29174)
+
+
+  
+NoMethodError (undefined method `where' for #<Participant id: nil, name: "because", dob: nil, ab_test_group_id: nil, created_at: nil, updated_at: nil>):
+  
+app/controllers/participants_controller.rb:41:in `add_by_group_name'
+  [1m[35m (11.7ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (3.7ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_try_advisory_lock(8039392388304689580)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUser (20211210172243)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (5.9ms)[0m  [1m[35mCREATE TABLE "users" ("id" bigserial primary key, "username" character varying, "email" character varying, "password_digest" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210172243"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateAbTestGroups (20211210180334)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (4.5ms)[0m  [1m[35mCREATE TABLE "ab_test_groups" ("id" bigserial primary key, "group_name" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180334"]]
+  [1m[36mTRANSACTION (0.5ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateParticipants (20211210180556)
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (4.3ms)[0m  [1m[35mCREATE TABLE "participants" ("id" bigserial primary key, "name" character varying, "dob" date, "ab_test_group_id" bigint, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE INDEX "index_participants_on_ab_test_group_id" ON "participants" ("ab_test_group_id")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180556"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.7ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2021-12-11 15:56:31.756957"], ["updated_at", "2021-12-11 15:56:31.756957"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.3ms)[0m  [1m[34mSELECT pg_advisory_unlock(8039392388304689580)[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAbTestGroup Create (0.6ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "MY NEW GROUP"], ["created_at", "2021-12-11 15:56:39.474788"], ["updated_at", "2021-12-11 15:56:39.474788"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.7ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Khaled"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 15:56:39.491826"], ["updated_at", "2021-12-11 15:56:39.491826"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.2ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Rob"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 15:56:39.495952"], ["updated_at", "2021-12-11 15:56:39.495952"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.4ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Hanan"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 15:56:39.518086"], ["updated_at", "2021-12-11 15:56:39.518086"]]
+  [1m[36mTRANSACTION (1.8ms)[0m  [1m[35mCOMMIT[0m
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 17:56:47 +0200
+  [1m[35m (1.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Completed 500 Internal Server Error in 73099ms (ActiveRecord: 2.8ms | Allocations: 22717)
+
+
+  
+ActiveRecord::StatementInvalid (PG::UnableToSend: FATAL:  terminating connection due to administrator command
+server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+):
+  
+app/controllers/participants_controller.rb:41:in `add_by_group_name'
+  [1m[35m (5.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (4.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(8039392388304689580)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUser (20211210172243)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (4.0ms)[0m  [1m[35mCREATE TABLE "users" ("id" bigserial primary key, "username" character varying, "email" character varying, "password_digest" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210172243"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateAbTestGroups (20211210180334)
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (4.3ms)[0m  [1m[35mCREATE TABLE "ab_test_groups" ("id" bigserial primary key, "group_name" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180334"]]
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateParticipants (20211210180556)
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (6.9ms)[0m  [1m[35mCREATE TABLE "participants" ("id" bigserial primary key, "name" character varying, "dob" date, "ab_test_group_id" bigint NOT NULL, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL, CONSTRAINT "fk_rails_24da5661c8"
+FOREIGN KEY ("ab_test_group_id")
+  REFERENCES "ab_test_groups" ("id")
+)[0m
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE INDEX "index_participants_on_ab_test_group_id" ON "participants" ("ab_test_group_id")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180556"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.5ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2021-12-11 15:59:30.576692"], ["updated_at", "2021-12-11 15:59:30.576692"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(8039392388304689580)[0m
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAbTestGroup Create (0.7ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "MY NEW GROUP"], ["created_at", "2021-12-11 15:59:34.720958"], ["updated_at", "2021-12-11 15:59:34.720958"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.8ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Khaled"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 15:59:34.736817"], ["updated_at", "2021-12-11 15:59:34.736817"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.2ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Rob"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 15:59:34.740589"], ["updated_at", "2021-12-11 15:59:34.740589"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.2ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Hanan"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 15:59:34.743417"], ["updated_at", "2021-12-11 15:59:34.743417"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 18:05:01 +0200
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 18:07:27 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.7ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.5ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 82ms (Views: 65.7ms | ActiveRecord: 15.4ms | Allocations: 10220)
+
+
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+  ↳ (pry):2:in `add_by_group_name'
+  [1m[36mCACHE AbTestGroup Load (0.0ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."id" = $1 LIMIT $2[0m  [["id", nil], ["LIMIT", 1]]
+  ↳ (pry):3:in `add_by_group_name'
+  [1m[36mAbTestGroup Load (0.4ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "MY NEW GROUP"], ["LIMIT", 1]]
+  ↳ (pry):4:in `add_by_group_name'
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ (pry):9:in `add_by_group_name'
+  [1m[36mParticipant Create (5.1ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "bllaaa"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 16:13:59.172116"], ["updated_at", "2021-12-11 16:13:59.172116"]]
+  ↳ (pry):9:in `add_by_group_name'
+  [1m[36mTRANSACTION (1.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ (pry):9:in `add_by_group_name'
+Completed 500 Internal Server Error in 628661ms (ActiveRecord: 12.7ms | Allocations: 86214)
+
+
+  
+NoMethodError (undefined method `where' for #<Participant id: nil, name: "because", dob: nil, ab_test_group_id: nil, created_at: nil, updated_at: nil>):
+  
+app/controllers/participants_controller.rb:41:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 18:15:48 +0200
+  [1m[35m (1.5ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+  [1m[36mAbTestGroup Load (0.8ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "dabbashaed"], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:39:in `add_by_group_name'
+Completed 500 Internal Server Error in 36ms (ActiveRecord: 11.5ms | Allocations: 6324)
+
+
+  
+ArgumentError (wrong number of arguments (given 2, expected 0..1)):
+  
+app/controllers/participants_controller.rb:40:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 18:17:31 +0200
+  [1m[35m (1.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+  [1m[36mAbTestGroup Load (0.6ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "dabbashaed"], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:39:in `add_by_group_name'
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 18:19:56 +0200
+Completed 500 Internal Server Error in 151134ms (ActiveRecord: 14.1ms | Allocations: 41347)
+
+
+  
+ArgumentError (wrong number of arguments (given 2, expected 0..1)):
+  
+app/controllers/participants_controller.rb:41:in `add_by_group_name'
+Processing by AbTestGroupsController#index as HTML
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 18:20:03 +0200
+  [1m[36mAbTestGroup Load (0.6ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.8ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 44ms (Views: 27.8ms | ActiveRecord: 13.0ms | Allocations: 10698)
+
+
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.2ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.6ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 22ms (Views: 13.4ms | ActiveRecord: 6.5ms | Allocations: 8973)
+
+
+Started POST "/api/participants/add_by_group_name/dabbashaed" for ::1 at 2021-12-11 18:20:12 +0200
+  [1m[35m (0.9ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"dabbashaed", "participant"=>{"name"=>"because"}}
+  [1m[36mAbTestGroup Load (0.4ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "dabbashaed"], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:39:in `add_by_group_name'
+Completed 200 OK in 45ms (Views: 12.8ms | ActiveRecord: 9.0ms | Allocations: 13695)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 18:20:19 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 15ms (Views: 14.2ms | ActiveRecord: 0.7ms | Allocations: 5810)
+
+
+Started POST "/api/ab_test_groups/" for ::1 at 2021-12-11 18:21:13 +0200
+Processing by AbTestGroupsController#create as */*
+  Parameters: {"name"=>"group", "ab_test_group"=>{}}
+Completed 400 Bad Request in 1ms (ActiveRecord: 0.0ms | Allocations: 241)
+
+
+  
+ActionController::ParameterMissing (param is missing or the value is empty: ab_test_group
+Did you mean?  ab_test_group
+               name
+               action
+               controller):
+  
+app/controllers/ab_test_groups_controller.rb:44:in `ab_test_group_params'
+app/controllers/ab_test_groups_controller.rb:10:in `create'
+Started POST "/api/ab_test_groups/" for ::1 at 2021-12-11 18:21:24 +0200
+Processing by AbTestGroupsController#create as */*
+  Parameters: {"group_name"=>"group", "ab_test_group"=>{"group_name"=>"group"}}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:10:in `create'
+  [1m[36mAbTestGroup Create (0.6ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "group"], ["created_at", "2021-12-11 16:21:24.294522"], ["updated_at", "2021-12-11 16:21:24.294522"]]
+  ↳ app/controllers/ab_test_groups_controller.rb:10:in `create'
+  [1m[36mTRANSACTION (4.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:10:in `create'
+Completed 200 OK in 59ms (Views: 0.3ms | ActiveRecord: 4.9ms | Allocations: 2538)
+
+
+Started POST "/api/participants/add_by_group_name/group" for ::1 at 2021-12-11 18:21:37 +0200
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"group", "participant"=>{"name"=>"because"}}
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "group"], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:39:in `add_by_group_name'
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+  [1m[36mParticipant Create (0.8ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "because"], ["ab_test_group_id", 2], ["created_at", "2021-12-11 16:21:37.451432"], ["updated_at", "2021-12-11 16:21:37.451432"]]
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+  [1m[36mTRANSACTION (4.1ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+Completed 200 OK in 48ms (Views: 0.3ms | ActiveRecord: 5.4ms | Allocations: 2659)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 18:21:53 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.8ms | Allocations: 2705)
+
+
+Started POST "/api/participants/add_by_group_name/group" for ::1 at 2021-12-11 18:31:12 +0200
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"group", "participant"=>{"name"=>"because"}}
+Creating scope :find_by_group_name. Overwriting existing method AbTestGroup.find_by_group_name.
+  [1m[36mAbTestGroup Load (2.5ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE (group_name == 'group') ORDER BY "ab_test_groups"."id" ASC LIMIT $1[0m  [["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+Completed 500 Internal Server Error in 9ms (ActiveRecord: 8.8ms | Allocations: 2278)
+
+
+  
+ActiveRecord::StatementInvalid (PG::UndefinedFunction: ERROR:  operator does not exist: character varying == unknown
+LINE 1: ...groups".* FROM "ab_test_groups" WHERE (group_name == 'group'...
+                                                             ^
+HINT:  No operator matches the given name and argument types. You might need to add explicit type casts.
+):
+  
+app/controllers/participants_controller.rb:40:in `add_by_group_name'
+Started POST "/api/participants/add_by_group_name/group" for ::1 at 2021-12-11 18:33:36 +0200
+  [1m[35m (1.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"group", "participant"=>{"name"=>"because"}}
+Creating scope :find_by_group_name. Overwriting existing method AbTestGroup.find_by_group_name.
+  [1m[36mAbTestGroup Load (1.7ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "group"], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:42:in `add_by_group_name'
+  [1m[36mParticipant Create (1.7ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "because"], ["ab_test_group_id", 2], ["created_at", "2021-12-11 16:33:36.597732"], ["updated_at", "2021-12-11 16:33:36.597732"]]
+  ↳ app/controllers/participants_controller.rb:42:in `add_by_group_name'
+  [1m[36mTRANSACTION (0.7ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:42:in `add_by_group_name'
+Completed 200 OK in 63ms (Views: 0.4ms | ActiveRecord: 14.2ms | Allocations: 14345)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 18:33:51 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.3ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.2ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 12ms (Views: 10.9ms | ActiveRecord: 0.8ms | Allocations: 5145)
+
+
+  [1m[35m (4.3ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" character varying NOT NULL PRIMARY KEY)[0m
+  [1m[35m (4.2ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" character varying NOT NULL PRIMARY KEY, "value" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_try_advisory_lock(8039392388304689580)[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Migrating to CreateUser (20211210172243)
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (4.0ms)[0m  [1m[35mCREATE TABLE "users" ("id" bigserial primary key, "username" character varying, "email" character varying, "password_digest" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.4ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210172243"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateAbTestGroups (20211210180334)
+  [1m[36mTRANSACTION (4.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (3.1ms)[0m  [1m[35mCREATE TABLE "ab_test_groups" ("id" bigserial primary key, "group_name" character varying, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL)[0m
+  [1m[35m (5.1ms)[0m  [1m[35mCREATE INDEX "index_ab_test_groups_on_group_name" ON "ab_test_groups" ("group_name")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.3ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180334"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+Migrating to CreateParticipants (20211210180556)
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  [1m[35m (11.1ms)[0m  [1m[35mCREATE TABLE "participants" ("id" bigserial primary key, "name" character varying, "dob" date, "ab_test_group_id" bigint NOT NULL, "created_at" timestamp(6) NOT NULL, "updated_at" timestamp(6) NOT NULL, CONSTRAINT "fk_rails_24da5661c8"
+FOREIGN KEY ("ab_test_group_id")
+  REFERENCES "ab_test_groups" ("id")
+)[0m
+  [1m[35m (0.7ms)[0m  [1m[35mCREATE INDEX "index_participants_on_ab_test_group_id" ON "participants" ("ab_test_group_id")[0m
+  [1m[36mActiveRecord::SchemaMigration Create (0.2ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES ($1) RETURNING "version"[0m  [["version", "20211210180556"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.4ms)[0m  [1m[34mSELECT "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = $1 LIMIT $2[0m  [["key", "environment"], ["LIMIT", 1]]
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mActiveRecord::InternalMetadata Create (0.4ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "key"[0m  [["key", "environment"], ["value", "development"], ["created_at", "2021-12-11 16:41:35.680447"], ["updated_at", "2021-12-11 16:41:35.680447"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT pg_advisory_unlock(8039392388304689580)[0m
+  [1m[35m (0.7ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  [1m[35m (0.4ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Creating scope :find_by_group_name. Overwriting existing method AbTestGroup.find_by_group_name.
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mAbTestGroup Create (0.9ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "MY NEW GROUP"], ["created_at", "2021-12-11 16:41:44.187829"], ["updated_at", "2021-12-11 16:41:44.187829"]]
+  [1m[36mTRANSACTION (0.4ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.8ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Khaled"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 16:41:44.203049"], ["updated_at", "2021-12-11 16:41:44.203049"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.2ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Rob"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 16:41:44.206899"], ["updated_at", "2021-12-11 16:41:44.206899"]]
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mCOMMIT[0m
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[35mBEGIN[0m
+  [1m[36mParticipant Create (0.2ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "Hanan"], ["ab_test_group_id", 1], ["created_at", "2021-12-11 16:41:44.209725"], ["updated_at", "2021-12-11 16:41:44.209725"]]
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mCOMMIT[0m
+Started POST "/api/participants/add_by_group_name/group" for ::1 at 2021-12-11 18:41:53 +0200
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"group", "participant"=>{"name"=>"because"}}
+Creating scope :find_by_group_name. Overwriting existing method AbTestGroup.find_by_group_name.
+  [1m[36mAbTestGroup Load (0.6ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "group"], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:39:in `add_by_group_name'
+Completed 200 OK in 49ms (Views: 8.7ms | ActiveRecord: 9.3ms | Allocations: 12134)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 18:41:59 +0200
+Processing by AbTestGroupsController#index as HTML
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 15ms (Views: 13.4ms | ActiveRecord: 0.7ms | Allocations: 5749)
+
+
+Started POST "/api/ab_test_groups/" for ::1 at 2021-12-11 18:42:13 +0200
+Processing by AbTestGroupsController#create as */*
+  Parameters: {"group_name"=>"group", "ab_test_group"=>{"group_name"=>"group"}}
+  [1m[36mTRANSACTION (0.2ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:10:in `create'
+  [1m[36mAbTestGroup Create (0.8ms)[0m  [1m[32mINSERT INTO "ab_test_groups" ("group_name", "created_at", "updated_at") VALUES ($1, $2, $3) RETURNING "id"[0m  [["group_name", "group"], ["created_at", "2021-12-11 16:42:13.320313"], ["updated_at", "2021-12-11 16:42:13.320313"]]
+  ↳ app/controllers/ab_test_groups_controller.rb:10:in `create'
+  [1m[36mTRANSACTION (4.0ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:10:in `create'
+Completed 200 OK in 42ms (Views: 0.3ms | ActiveRecord: 4.9ms | Allocations: 2570)
+
+
+Started POST "/api/participants/add_by_group_name/group" for ::1 at 2021-12-11 18:42:26 +0200
+Processing by ParticipantsController#add_by_group_name as */*
+  Parameters: {"name"=>"because", "group_name"=>"group", "participant"=>{"name"=>"because"}}
+  [1m[36mAbTestGroup Load (0.3ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups" WHERE "ab_test_groups"."group_name" = $1 ORDER BY "ab_test_groups"."id" ASC LIMIT $2[0m  [["group_name", "group"], ["LIMIT", 1]]
+  ↳ app/controllers/participants_controller.rb:39:in `add_by_group_name'
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[35mBEGIN[0m
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+  [1m[36mParticipant Create (0.8ms)[0m  [1m[32mINSERT INTO "participants" ("name", "ab_test_group_id", "created_at", "updated_at") VALUES ($1, $2, $3, $4) RETURNING "id"[0m  [["name", "because"], ["ab_test_group_id", 2], ["created_at", "2021-12-11 16:42:26.400115"], ["updated_at", "2021-12-11 16:42:26.400115"]]
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+  [1m[36mTRANSACTION (7.3ms)[0m  [1m[35mCOMMIT[0m
+  ↳ app/controllers/participants_controller.rb:40:in `add_by_group_name'
+Completed 200 OK in 51ms (Views: 0.4ms | ActiveRecord: 8.7ms | Allocations: 2745)
+
+
+Started GET "/ab_test_groups" for ::1 at 2021-12-11 20:16:38 +0200
+  [1m[35m (0.6ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  
+ActionController::RoutingError (No route matches [GET] "/ab_test_groups"):
+  
+Started GET "/ab_test_groups" for ::1 at 2021-12-11 20:16:39 +0200
+  
+ActionController::RoutingError (No route matches [GET] "/ab_test_groups"):
+  
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 20:16:45 +0200
+Processing by AbTestGroupsController#index as HTML
+Creating scope :find_by_group_name. Overwriting existing method AbTestGroup.find_by_group_name.
+  [1m[36mAbTestGroup Load (1.2ms)[0m  [1m[34mSELECT "ab_test_groups".* FROM "ab_test_groups"[0m
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (1.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 1]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+  [1m[36mParticipant Load (0.4ms)[0m  [1m[34mSELECT "participants".* FROM "participants" WHERE "participants"."ab_test_group_id" = $1[0m  [["ab_test_group_id", 2]]
+  ↳ app/controllers/ab_test_groups_controller.rb:6:in `index'
+Completed 200 OK in 34ms (Views: 19.8ms | ActiveRecord: 9.3ms | Allocations: 14800)
+
+
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 20:19:40 +0200
+  
+SyntaxError (/Users/khaleddabbas/Documents/participation_project/app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected ',', expecting =>
+...on: { groups: { ab_test_groups, include: [:participants] } }
+...                              ^
+/Users/khaleddabbas/Documents/participation_project/app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected '}', expecting `end'
+...ups, include: [:participants] } }
+...                              ^
+/Users/khaleddabbas/Documents/participation_project/app/controllers/ab_test_groups_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected ',', expecting =>
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected '}', expecting `end'
+app/controllers/ab_test_groups_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected ',', expecting =>
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected '}', expecting `end'
+app/controllers/ab_test_groups_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+Started GET "/api/ab_test_groups" for ::1 at 2021-12-11 20:19:41 +0200
+  
+SyntaxError (/Users/khaleddabbas/Documents/participation_project/app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected ',', expecting =>
+...on: { groups: { ab_test_groups, include: [:participants] } }
+...                              ^
+/Users/khaleddabbas/Documents/participation_project/app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected '}', expecting `end'
+...ups, include: [:participants] } }
+...                              ^
+/Users/khaleddabbas/Documents/participation_project/app/controllers/ab_test_groups_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'):
+  
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected ',', expecting =>
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected '}', expecting `end'
+app/controllers/ab_test_groups_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected ',', expecting =>
+app/controllers/ab_test_groups_controller.rb:6: syntax error, unexpected '}', expecting `end'
+app/controllers/ab_test_groups_controller.rb:46: syntax error, unexpected end-of-input, expecting `end'
