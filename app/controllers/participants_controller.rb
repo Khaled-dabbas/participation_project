@@ -36,8 +36,12 @@ class ParticipantsController < ApplicationController
     end
 
     def add_by_group_name
-        group = AbTestGroup.find_by_group_name(params[:group_name]).first
-        @participant = Participant.create(name: params[:name],dob: params[:dob], ab_test_group: group)
+        group_name = params[:group_name]
+        name = params[:name]
+        dob = params[:dob]
+        group = AbTestGroup.find_by_group_name(group_name).first
+        @participant = Participant.create(name: name, dob: dob, ab_test_group: group)
+
         if @participant.save
             render json: @participant
         else

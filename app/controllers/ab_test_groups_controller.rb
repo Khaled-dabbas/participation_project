@@ -25,11 +25,12 @@ class AbTestGroupsController < ApplicationController
     end
 
     def destroy
-        if @ab_test_group.destroy
+        begin
+            @ab_test_group.destroy
             # Send out 204 no content status
             render json: { success: true, status: 204 }
-        else
-            render json: { success: false }
+        rescue ActiveRecord::RecordNotDestroyed => e
+            render json: { success: false , message: "Record #{@ab_test_group.id} not destroyed" }
         end
     end
 
